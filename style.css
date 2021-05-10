@@ -1,0 +1,42 @@
+
+
+/* .container {
+  text-align: center;
+} */
+
+p {
+  font-size: 135%;
+}
+button {
+  width: 130px;
+}
+
+.card-group {
+    text-align: center;
+    position: relative;
+    width: 25%;
+    margin: auto;
+}
+
+.card {
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.16);
+    backdrop-filter: blur(7px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    
+/*  background:linear-gradient(40deg, transparent 10%, rgba(255,255,255,0.16) 60%, transparent 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px); */
+}
+
+.card-body{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+.tit {
+  color: rgb(248, 245, 245);
+  font-size: 35x;
+  letter-spacing: 2px;
+}
